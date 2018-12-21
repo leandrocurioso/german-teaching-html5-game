@@ -13244,6 +13244,12 @@ declare namespace Phaser {
              * Game Objects can only belong to one Scene.
              */
             protected scene: Phaser.Scene;
+            /**
+             * Texture property
+             */
+            public texture: {
+                key: string
+            }
 
             /**
              * A textual representation of this Game Object, i.e. `sprite`.

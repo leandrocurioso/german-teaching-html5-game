@@ -9,7 +9,9 @@ const config: GameConfig = {
   height: 360,
   type: Phaser.AUTO,
   parent: "game",
-  scene: MainScene,
+  scene: [
+    MainScene
+  ],
   title: 'German Teaching Game',
   pixelArt: false,
   physics: {
