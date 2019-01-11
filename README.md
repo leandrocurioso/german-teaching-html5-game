@@ -1,2 +1,5 @@
 # German Teaching HTML5 Game
-A POC project to teach German like a game
+
+**Demo:** http://germanteaching.leandrocurioso.com
+
+![alt Demo](https://raw.githubusercontent.com/leandrocurioso/german-teaching-html5-game/master/demo.png)

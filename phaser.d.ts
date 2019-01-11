@@ -13256,6 +13256,11 @@ declare namespace Phaser {
              * Used internally by Phaser but is available for your own custom classes to populate.
              */
             type: string;
+            
+            /**
+             * CHange the alpha property of the object
+             */            
+            alpha: number;
 
             /**
              * The parent Container of this Game Object, if it has one.
